@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    line-height: 1.4em;
+    background-color: #eeeeee;
+  }
+  
+  article {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: red;
+    font-size: 60px;
+  }
+  
+  h2 {
+    color: green;
+  }
